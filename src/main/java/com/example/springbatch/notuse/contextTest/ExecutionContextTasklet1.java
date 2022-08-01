@@ -1,4 +1,4 @@
-package com.example.springbatch.context;
+package com.example.springbatch.notuse.contextTest;
 
 import org.springframework.batch.core.StepContribution;
 import org.springframework.batch.core.scope.context.ChunkContext;
